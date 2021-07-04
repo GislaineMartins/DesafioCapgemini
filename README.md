@@ -8,7 +8,7 @@ Desafio parte 1 e parte 2
 # Desafio Parte 2
 ## Passo 1:
 - Importar o banco de dados disponivel dentro da pasta dumps. 
-- É importante configurar o login, senha e nome do banco de dados dentro da classe ConnectionFactory para conexão com banco de dados. Caminho: src/connection/connectionFactory.java
+- É importante configurar o login, senha e nome do banco de dados dentro da classe ConnectionFactory para conexão com banco de dados. Caminho: src/connection/connectionFactory.java. Foi utilizado o nome gerenciador_anuncio (nome do banco de dados)
 - Observação: nesse projeto é usado Mysql. Foi utilizado o software Workbench para fazer a conexão do banco de dados.
 
 ## Passo 2:
