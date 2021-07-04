@@ -15,4 +15,6 @@ Desafio parte 1 e parte 2
 - Para executar o programa será necessário abrir a classe PrincipalCalculadora.java que será encontrada no seguinte caminho: src/view/PrincipalCalculadora.java
 - A resposta do exercício vai ser encontrada na tabela relatorio do banco de dados. Será apresentado uma lista com todos valores calculados segundo informacões de entrada do usuário. (conforme a imagem abaixo)
 
+![relatorio banco de dados](https://github.com/GislaineMartins/DesafioCapgemini/blob/master/01.jpg)
+
 
